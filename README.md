@@ -1,1 +1,1 @@
-# notesForStudents
+# notes
